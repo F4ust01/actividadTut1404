@@ -1,15 +1,15 @@
 /* Estilos generales de la página */
 body {
-	margin: 0;
-	padding: 0;
-	font-family: Arial, sans-serif;
+	margin: 100px;
+	padding: 100px;
+	font-family: Arial, Helvetica, sans-serif
 	font-size: 16px;
 	line-height: 1.5;
 }
 
 /* Estilos del encabezado */
 header {
-	background-color: #f0f0f0;
+	background-color: #fa7c7c;
 	padding: 20px;
 }
 
@@ -49,4 +49,30 @@ footer {
 	color: #fff;
 	padding: 20px;
 	text-align: center;
+}
+
+
+.titulocolo{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 1000px #0000;
+	padding-left: 400px;
+}
+
+.parrafocolo{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px #0000;
+	padding-left: 400px;
+}
+
+.titulolagbla{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px #0000;
+	padding-left: 400px;
+
+}
+
+.parrafolagbla{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 50px #0000;
+	padding-left: 400px;
 }
